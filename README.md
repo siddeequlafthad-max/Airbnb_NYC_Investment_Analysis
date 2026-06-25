@@ -34,11 +34,11 @@ dashboard-images/
 - 
 ## Dashboard Preview
 
-![Power BI Dashboard](<img width="813" height="455" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/5dd2e26c-7bd4-4ad0-972e-9229e2889218" />
-)
+<img src="https://github.com/user-attachments/assets/5dd2e26c-7bd4-4ad0-972e-9229e2889218" width="100%" alt="Power BI Dashboard">
 
-![Revenue Analysis](<img width="951" height="428" alt="Screenshot 2026-06-25 200959" src="https://github.com/user-attachments/assets/7ea83972-7035-4f85-b963-3e221a616b75" />
-)
+<br/>
+
+<img src="https://github.com/user-attachments/assets/7ea83972-7035-4f85-b963-3e221a616b75" width="100%" alt="Revenue Analysis">
 ## Author
 *Siddiqul Afdad K M*
 Data Analyst
