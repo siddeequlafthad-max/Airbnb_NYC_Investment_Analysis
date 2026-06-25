@@ -34,7 +34,8 @@ dashboard-images/
 - 
 ## Dashboard Preview
 
-<img src="https://github.com/user-attachments/assets/5dd2e26c-7bd4-4ad0-972e-9229e2889218" width="100%" alt="Power BI Dashboard">
+<img width="442" height="405" alt="Screenshot 2026-06-26 040107" src="https://github.com/user-attachments/assets/ea9ed4dc-2541-4071-bfdb-ca932a8b3837" />
+
 
 <br/>
 
