@@ -34,7 +34,7 @@ dashboard-images/
 - 
 ## Dashboard Preview
 
-<img width="442" height="405" alt="Screenshot 2026-06-26 040107" src="https://github.com/user-attachments/assets/ea9ed4dc-2541-4071-bfdb-ca932a8b3837" />
+<img width="680" height="427" alt="Screenshot 2026-07-01 000934" src="https://github.com/user-attachments/assets/6d93c458-04d8-4cf2-b4a6-2f52409da308" />
 
 
 <br/>
