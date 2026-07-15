@@ -34,7 +34,12 @@ dashboard-images/
 - 
 ## Dashboard Preview
 
-<img width="680" height="427" alt="Screenshot 2026-07-01 000934" src="https://github.com/user-attachments/assets/6d93c458-04d8-4cf2-b4a6-2f52409da308" />
+<img width="593" height="329" alt="Power BI dashboard (Overview Dashboard)" src="https://github.com/user-attachments/assets/0c5ad754-179d-43da-b215-6129a0951b64" />
+<img width="594" height="333" alt="Power BI dashboard (Availability Analysis Dashboard)" src="https://github.com/user-attachments/assets/d5ae69a5-c8e5-412e-b596-ad5f55b64572" />
+<img width="599" height="332" alt="Power BI dashboard (Host Analysis Dashboard)" src="https://github.com/user-attachments/assets/0a43ff16-5d69-4435-99ab-7ade95a10ba9" />
+<img width="590" height="332" alt="Power BI dashboard (Pricing Analysis Dashboard)" src="https://github.com/user-attachments/assets/6d0cc7a8-fa4e-4b3b-acf5-1248d8202a64" />
+
+
 
 
 <br/>
